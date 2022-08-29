@@ -1,0 +1,20 @@
+{
+  "name": "addborder",
+  "version": "1.0.0",
+  "description": "Given a rectangular matrix of characters, add a border of asterisks(`*`) to it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/addBorder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/addBorder/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/addBorder#readme"
+}
